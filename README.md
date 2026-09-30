@@ -1,4 +1,4 @@
-# Printable DNA data storage inks for object-bound digital provenance
+
 
 Encoding and decoding code accompanying the paper.
 
@@ -86,7 +86,3 @@ Supported datasets: `Sheet`, `mp3`, `girl`, `game`, `S-K`, `S-E`, `S-I`, `H-K`, 
 Sequence selection during encoding used the `RNAfold` executable from ViennaRNA 2.5.0.
 
 ---
-
-## License
-
-See `LICENSE`.
