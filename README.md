@@ -85,7 +85,3 @@ FASTQ (forward + reverse) 병합
 인코딩 단계의 서열 선별에는 ViennaRNA 2.5.0의 `RNAfold` 실행 파일을 사용하였다.
 
 ---
-
-## 라이선스
-
-[미정 — LICENSE 파일 참조]
